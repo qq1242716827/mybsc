@@ -1,0 +1,118 @@
+{
+  "timestamp": "2021-01-12T12:37:57.000+00:00",
+  "errcode": 0,
+  "errmsg": "success",
+  "poolList": [
+    {
+      "id": 1,
+      "name": "ARK-HUSD",
+      "type": "LP",
+      "dailyPer": 1000,
+      "monthPer": 12345678,
+      "usdtTotal": 10,
+      "total": 0,
+      "iconL": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/ARK.png",
+      "iconR": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/HUSD.png"
+    },
+    {
+      "id": 2,
+      "name": "HBTC-HUSD",
+      "type": "LP",
+      "dailyPer": 1000,
+      "monthPer": 12345678,
+      "usdtTotal": 10,
+      "total": 0,
+      "iconL": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/BTC.png",
+      "iconR": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/HUSD.png"
+    },
+    {
+      "id": 3,
+      "name": "ETH-HUSD",
+      "type": "LP",
+      "dailyPer": 1000,
+      "monthPer": 12345678,
+      "usdtTotal": 10,
+      "total": 0,
+      "iconL": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/ETH.png",
+      "iconR": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/HUSD.png"
+    },
+    {
+      "id": 4,
+      "name": "HT-HUSD",
+      "type": "LP",
+      "dailyPer": 1000,
+      "monthPer": 12345678,
+      "usdtTotal": 10,
+      "total": 0,
+      "iconL": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/HT.png",
+      "iconR": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/HUSD.png"
+    },
+    {
+      "id": 5,
+      "name": "HBTC-ETH",
+      "type": "LP",
+      "dailyPer": 1000,
+      "monthPer": 12345678,
+      "usdtTotal": 10,
+      "total": 0,
+      "iconL": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/BTC.png",
+      "iconR": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/ETH.png"
+    },
+    {
+      "id": 11,
+      "name": "ARK",
+      "type": "Token",
+      "dailyPer": 1000,
+      "monthPer": 0,
+      "usdtTotal": 10,
+      "total": 12345678,
+      "iconL": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/ARK.png",
+      "iconR": ""
+    },
+    {
+      "id": 12,
+      "name": "HBTC",
+      "type": "Token",
+      "dailyPer": 1000,
+      "monthPer": 0,
+      "usdtTotal": 10,
+      "total": 12345678,
+      "iconL": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/BTC.png",
+      "iconR": ""
+    },
+    {
+      "id": 13,
+      "name": "ETH",
+      "type": "Token",
+      "dailyPer": 1000,
+      "monthPer": 0,
+      "usdtTotal": 10,
+      "total": 12345678,
+      "iconL": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/ETH.png",
+      "iconR": ""
+    },
+    {
+      "id": 14,
+      "name": "HT",
+      "type": "Token",
+      "dailyPer": 1000,
+      "monthPer": 0,
+      "usdtTotal": 10,
+      "total": 12345678,
+      "iconL": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/HT.png",
+      "iconR": ""
+    },
+    {
+      "id": 15,
+      "name": "HUSD",
+      "type": "Token",
+      "dailyPer": 1000,
+      "monthPer": 0,
+      "usdtTotal": 10,
+      "total": 12345678,
+      "iconL": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/HUSD.png",
+      "iconR": ""
+    }
+
+  ]
+}

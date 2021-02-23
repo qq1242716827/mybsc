@@ -1,0 +1,64 @@
+{
+  "name": "ArkSwapTest",
+  "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/ARK.svg",
+  "keywords": [
+    "arkswap",
+    "defi"
+  ],
+  "timestamp": "2021-01-03T12:37:57.000+00:00",
+  "tokens": [
+    {
+      "name": "BSC Token",
+      "address": "0x90e2114365ab735b25a90853945647ab234e3501",
+      "symbol": "BSC",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/ETH.png"
+    },
+    {
+      "name": "ArkSwap Governance Token",
+      "address": "0x9add7c7a46f9330737c9d52d586cf27fe698b0ad",
+      "symbol": "ARK",
+      "decimals": 18,
+      "chainId": 256,
+      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/ARK.png"
+    },
+    {
+      "name": "Wrapped HT",
+      "address": "0x00e790baa7de3dc9de7790518a1d18f852fd9780",
+      "symbol": "WHT",
+      "decimals": 18,
+      "chainId": 256,
+      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/HT.png"
+    },
+    {
+      "name": "Heco-Peg HUSD Token",
+      "address": "0x759de9811e677b9f1ba4ed8ba0b634ac6c719c98",
+      "symbol": "HUSD",
+      "decimals": 18,
+      "chainId": 256,
+      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/HUSD.png"
+    },
+    {
+      "name": "Heco-Peg ETH Token",
+      "address": "0x90e2114365ab735b25a90853945647ab234e3501",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 256,
+      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/ETH.png"
+    },
+    {
+      "name": "Heco-Peg HBTC Token",
+      "address": "0x4419a6ef9dcffab3d3e2d5eabefa516a0a9815f2",
+      "symbol": "HBTC",
+      "decimals": 18,
+      "chainId": 256,
+      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/BTC.png"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  }
+}

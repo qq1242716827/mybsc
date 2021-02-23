@@ -1,0 +1,22 @@
+{
+  "timestamp": "2021-01-12T12:37:57.000+00:00",
+  "errcode": 10,
+  "errmsg": "success",
+  "poolList": [
+    {
+      "collateralPool": "btc/ht",
+      "dailyOutputTotal": 10,
+      "annualizedReturn": 3
+    },
+    {
+      "collateralPool": "usdt/ht",
+      "dailyOutputTotal": 10,
+      "annualizedReturn": 3
+    },
+    {
+      "collateralPool": "ark/ht",
+      "dailyOutputTotal": 10,
+      "annualizedReturn": 3
+    }
+  ]
+}
